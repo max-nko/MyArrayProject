@@ -17,3 +17,6 @@
 2. Відкрийте термінал і скомпілюйте програму командою:
    ```bash
    g++ main.cpp -o MyArrayProject
+## Запустіть програму
+./MyArrayProject
+
